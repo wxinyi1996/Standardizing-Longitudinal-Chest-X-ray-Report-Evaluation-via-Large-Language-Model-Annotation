@@ -16,13 +16,13 @@ Longitudinal information in radiology reports refers to the sequential tracking 
 
 ## 💻 Code and Evaluation
 
-## 1. Evaluate Your Report Generation Model with Our Tool
+### 1. Evaluate Your Report Generation Model with Our Tool
 
-## 2. Reproducing the Results in Our paper
+### 2. Reproducing the Results in Our paper
 
-### 2.1 Comparison Our Pipeline with Traditional Methods
+#### 2.1 Comparison Our Pipeline with Traditional Methods
 
-### 2.2 Evaluation of Report Generation Models
+#### 2.2 Evaluation of Report Generation Models
 
 
 ## 📚 Citation

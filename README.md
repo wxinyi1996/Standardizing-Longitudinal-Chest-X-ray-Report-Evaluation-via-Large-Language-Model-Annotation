@@ -26,14 +26,14 @@ Longitudinal information in radiology reports refers to the sequential tracking 
 
 For all large language models, the decoding method is greedy decoding.
 
-| Method | Model | Model Size | Accuracy | Precision | Recall | F1 Score |
-|---|---|---:|---:|---:|---:|---:|
-| Traditional method | ImaGenome silver | -- | 90.2 | 98.5 | 71.2 | 82.7 |
-| LLM-based methods | MedGemma | 27B | 95.5 (5.3 ↑) | 92.7 (5.8 ↓) | 93.7 (22.5 ↑) | 93.2 (10.5 ↑) |
-| LLM-based methods | MedResearcher-R1 | 32B | 94.0 (3.8 ↑) | 95.4 (3.1 ↓) | 86.0 (14.8 ↑) | 90.5 (7.8 ↑) |
-| LLM-based methods | Qwen2.5 | 32B | 94.8 (4.6 ↑) | 95.1 (3.4 ↓) | 88.8 (17.6 ↑) | 91.8 (9.1 ↑) |
-| LLM-based methods | Llama3.3 | 70B | 95.9 (5.7 ↑) | 91.4 (7.1 ↓) | 96.8 (25.6 ↑) | 94.0 (11.3 ↑) |
-| LLM-based methods | Qwen2.5 | 72B | 93.4 (3.2 ↑) | 94.4 (4.1 ↓) | 85.1 (13.9 ↑) | 89.5 (6.8 ↑) |
+Model | Model Size | Accuracy | Precision | Recall | F1 Score |
+|---|---:|---:|---:|---:|---:|
+| ImaGenome silver | -- | 90.2 | 98.5 | 71.2 | 82.7 |
+| MedGemma | 27B | 95.5 (5.3 ↑) | 92.7 (5.8 ↓) | 93.7 (22.5 ↑) | 93.2 (10.5 ↑) |
+| MedResearcher-R1 | 32B | 94.0 (3.8 ↑) | 95.4 (3.1 ↓) | 86.0 (14.8 ↑) | 90.5 (7.8 ↑) |
+| Qwen2.5 | 32B | 94.8 (4.6 ↑) | 95.1 (3.4 ↓) | 88.8 (17.6 ↑) | 91.8 (9.1 ↑) |
+| Llama3.3 | 70B | 95.9 (5.7 ↑) | 91.4 (7.1 ↓) | 96.8 (25.6 ↑) | 94.0 (11.3 ↑) |
+| Qwen2.5 | 72B | 93.4 (3.2 ↑) | 94.4 (4.1 ↓) | 85.1 (13.9 ↑) | 89.5 (6.8 ↑) |
 
 ##### Performance of LLMs on Disease Progression Annotation
 

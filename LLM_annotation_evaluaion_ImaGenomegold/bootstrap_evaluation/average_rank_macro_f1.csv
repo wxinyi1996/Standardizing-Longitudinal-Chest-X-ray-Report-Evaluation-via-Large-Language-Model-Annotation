@@ -1,0 +1,7 @@
+Model,MeanRank,RankCI_lower,RankCI_upper
+Qwen-32B,1.941,1.0,4.0
+Qwen-72B,1.652,1.0,3.0
+MedResearcher-R1-32B,5.382,4.0,6.0
+Medgemma-27B,2.603,1.0,4.0
+Llama-3.3-70B,4.208,3.0,6.0
+Silver,5.214,4.0,6.0

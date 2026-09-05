@@ -60,6 +60,9 @@ The results are presented as comments directly in the code.
 
 ### 2. Evaluate Your Report Generation Model with Our Tool
 
+According to the Dataset Access section above, you should already have the L-MIMIC dataset. Our evaluation uses the results provided with L-MIMIC, which were annotated with Qwen2.5-32B.
+
+If you want to use a newer LLM for annotation, you can easily re-annotate the pre-segmented sentences provided in L-MIMIC. Simply replace the prediction logic in the prediction function with your new LLM, and modify the data loading and saving logic in the main function to match your desired format.
 
 
 ### 3. Reproducing the Results in Our paper

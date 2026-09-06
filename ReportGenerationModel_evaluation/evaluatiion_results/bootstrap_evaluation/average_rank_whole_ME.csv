@@ -1,0 +1,8 @@
+Model,MeanRank,RankCI_lower,RankCI_upper
+R2Gen,6.001,6.0,6.0
+Longitudinal-R2Gen,6.999,7.0,7.0
+MLRG,3.016,3.0,3.0
+HCLLM,5.0,5.0,5.0
+Libra,1.0,1.0,1.0
+MAIRA2,2.0,2.0,2.0
+MedVersa,3.984,4.0,4.0
